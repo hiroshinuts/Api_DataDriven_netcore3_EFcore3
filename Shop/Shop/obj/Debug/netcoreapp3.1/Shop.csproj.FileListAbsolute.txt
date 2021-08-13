@@ -130,5 +130,8 @@ C:\dev\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.
 C:\dev\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\dev\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\dev\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\dev\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\dev\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\dev\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
 C:\dev\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
